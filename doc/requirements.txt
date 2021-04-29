@@ -1,3 +1,4 @@
+sphinxawesome-theme
 ipykernel
 numpy
 matplotlib

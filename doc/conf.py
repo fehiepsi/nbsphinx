@@ -115,6 +115,10 @@ except Exception:
 
 html_favicon = 'favicon.svg'
 html_title = project + ' version ' + release
+html_theme = 'sphinxawesome_theme'
+html_theme_options = {
+    'show_prev_next': True,
+}
 
 # -- Options for LaTeX output ---------------------------------------------
 
